@@ -59,8 +59,7 @@ android:textAppearance="?android:attr/textAppearanceMedium"
 android:layout_marginLeft="10dp"
 android:layout_marginTop="5dp"
 android:padding="2dp"
-android:textColor="#4d4d4d"
-    />
+android:textColor="#4d4d4d"/>
 ```
 ## STRINGS.XML
 
